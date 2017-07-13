@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\cognizant\Desktop\amit\CdCdoranCoUkSProximit4O1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb1c09b7d9e370958a249c9e4768cf2a739b721a">
+        <dex dex="C:\Users\cognizant\Desktop\amit\CdCdoranCoUkSProximit4O1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0a44f3d553a3e34e159d25904ecb5dd731b26c08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cognizant\Desktop\amit\CdCdoranCoUkSProximit4O1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\cognizant\Desktop\amit\CdCdoranCoUkSProximit4O1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_723755f5777d754ae45a211cc5c37b72007d22d2\classes.dex" />
+    </item>
+
+</items>
